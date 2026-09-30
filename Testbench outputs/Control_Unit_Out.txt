@@ -1,0 +1,12 @@
+Starting Control_Unit testbench
+PASS: R-type
+PASS: I-type
+PASS: LOAD
+PASS: STORE
+PASS: BRANCH
+PASS: JAL
+PASS: JALR
+PASS: LUI
+PASS: AUIPC
+PASS: DEFAULT
+Control_Unit testbench finished

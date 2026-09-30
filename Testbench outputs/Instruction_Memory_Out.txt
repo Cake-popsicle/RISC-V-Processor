@@ -1,0 +1,7 @@
+Starting Instruction_Memory testbench
+PASS: Read word 0 @0x0
+PASS: Read word 1 @0x4
+PASS: Alignment via address[31:2]
+PASS: Read word 2 @0x8
+PASS: Read word 3 @0xC
+Instruction_Memory testbench finished

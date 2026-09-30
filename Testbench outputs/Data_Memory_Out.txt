@@ -1,0 +1,7 @@
+Starting Data_Memory testbench
+PASS: Read back addr 0x8
+PASS: Read disabled outputs zero
+PASS: Read back addr 0x10
+PASS: Reset clears addr 0x8
+PASS: Reset clears addr 0x10
+Data_Memory testbench finished

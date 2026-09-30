@@ -1,0 +1,6 @@
+Starting Register_File testbench
+PASS: Read back x3
+PASS: x0 hardwired zero
+PASS: Read 1
+PASS: Read 2
+Register_File testbench finished

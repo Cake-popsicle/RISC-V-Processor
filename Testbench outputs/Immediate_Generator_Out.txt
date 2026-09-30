@@ -1,0 +1,12 @@
+Starting Immediate_Generator testbench
+PASS: R-type
+PASS: I-type +10
+PASS: I-type -1
+PASS: JALR -8
+PASS: STORE +42
+PASS: BRANCH +8
+PASS: JAL +2048
+PASS: LUI
+PASS: AUIPC
+PASS: Invalid opcode
+Immediate_Generator testbench finished

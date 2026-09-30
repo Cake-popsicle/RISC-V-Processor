@@ -1,0 +1,12 @@
+Starting ALU testbench
+PASS: ADD
+PASS: SUB to zero
+PASS: AND
+PASS: OR
+PASS: XOR
+PASS: SLL
+PASS: SRL
+PASS: SRA
+PASS: SLT signed
+PASS: SLTU unsigned
+ALU testbench finished

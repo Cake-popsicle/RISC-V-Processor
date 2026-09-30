@@ -1,0 +1,9 @@
+Starting Program_Counter testbench
+PASS: Reset drives pc to zero
+PASS: pc loads next_pc after posedge
+PASS: pc updates to new next_pc
+PASS: pc holds between edges
+PASS: pc updates on next posedge
+PASS: async reset clears pc immediately
+PASS: pc resumes after reset
+Program_Counter testbench finished
